@@ -1,4 +1,4 @@
-# Text-Sentiment-Analyzer-Flask-app
+# Text-Sentiment-Analyser-Flask-app
 NLP based text sentiment analyzer using vaderSentiment that classifies a text as positive, negative, compound or neutral.
 
 The project uses libraries like : <br />
